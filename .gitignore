@@ -1,0 +1,46 @@
+# Intellij Files #
+.idea/*
+.idea
+*.iml
+
+# OS Files #
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Eclipse Files #
+.settings/*
+.settings
+.project
+.cproject
+.classpath
+
+# Output Files #
+bin/*
+bin
+build/*
+build
+target/*
+target
+test-output/*
+test-output
+target_junit/*
+target_junit
+target_json/*
+target_json
+*.o
+
+
+# Gradle Files #
+.gradle/*
+.gradle
+
+# Log files #
+*.log
+
+# merge conflict files #
+*BASE*
+*LOCAL*
+*REMOTE*
+*BACKUP*
+*.orig
